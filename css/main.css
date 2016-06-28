@@ -2,7 +2,7 @@ body {
     text-align: center;
 }
 nav ul, footer ul {
-    font-family:'Avantgarde', 'Sans-Serif';
+    font-family:'Avantgarde';
     padding: 0px;
     list-style: none;
     font-weight: 300;
